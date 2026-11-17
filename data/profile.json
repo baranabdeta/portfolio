@@ -1,0 +1,30 @@
+{
+  "fullName": "Baran Abdeta",
+  "professionalHeadline": "Full Stack Developer",
+  "secondaryHeadline": "Electronics & Communication Engineer",
+  "elevatorPitch": "Bringing an engineering-first mindset from Electronics and Communication Engineering into modern Full Stack software development. Passionate about building robust backend architectures, high-performance web systems, and responsive digital products.",
+  "location": "Addis Ababa, Ethiopia",
+  "profilePhotoUrl": null,
+  "badges": [
+    "Full Stack Development",
+    "Electronics & Communication",
+    "Distributed Systems",
+    "Cloud & DevOps"
+  ],
+  "social": {
+    "githubUrl": "https://github.com/baranabdeta",
+    "linkedinUrl": "https://linkedin.com/in/baranabdeta",
+    "emailAddress": "baran.abdeta@example.com"
+  },
+  "resume": {
+    "publicUrl": "resume.pdf",
+    "downloadFilename": "Baran_Abdeta_Resume.pdf",
+    "lastUpdated": "2026-11-01",
+    "maxSizeBytes": 2097152
+  },
+  "meta": {
+    "ogTitle": "Baran Abdeta - Full Stack Developer & Electronics Engineer",
+    "ogDescription": "Bringing an engineering-first mindset into modern Full Stack software development. Specialized in distributed systems, cloud infrastructure, and high-performance web applications.",
+    "copyrightYear": 2026
+  }
+}

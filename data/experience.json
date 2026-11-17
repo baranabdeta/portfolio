@@ -1,0 +1,50 @@
+[
+  {
+    "id": "exp-001",
+    "company": "TechNova Systems",
+    "role": "Senior Full Stack Engineer",
+    "startDate": "2024-03",
+    "endDate": null,
+    "isCurrent": true,
+    "location": "Remote (Addis Ababa, ET)",
+    "responsibilities": [
+      "Architected and deployed a distributed real-time telemetry pipeline processing 15M+ events/day using ClickHouse and Kafka.",
+      "Led migration of monolithic Express API to modular microservices with Go, reducing P99 latency by 62%.",
+      "Established CI/CD workflows via GitHub Actions, cutting deployment cycle time from 2 hours to under 8 minutes.",
+      "Mentored 3 junior engineers on backend architecture patterns and distributed systems fundamentals."
+    ],
+    "technologies": ["Go", "React", "TypeScript", "ClickHouse", "Kafka", "Docker", "Kubernetes", "GitHub Actions"]
+  },
+  {
+    "id": "exp-002",
+    "company": "Orion Web Solutions",
+    "role": "Full Stack Developer",
+    "startDate": "2022-06",
+    "endDate": "2024-02",
+    "isCurrent": false,
+    "location": "Addis Ababa, Ethiopia",
+    "responsibilities": [
+      "Built and maintained 6 client-facing web applications using Next.js, Node.js, and PostgreSQL.",
+      "Designed a reusable headless e-commerce checkout engine with idempotent transaction handling and Stripe webhooks.",
+      "Implemented GraphQL API layer abstracting 4 legacy REST data sources into a unified schema.",
+      "Reduced average page load time by 44% through image optimization, code splitting, and CDN cache strategy improvements."
+    ],
+    "technologies": ["Next.js", "Node.js", "PostgreSQL", "Redis", "GraphQL", "Stripe API", "AWS S3"]
+  },
+  {
+    "id": "exp-003",
+    "company": "Synapse Electronics Lab",
+    "role": "Electronics & Embedded Systems Engineer",
+    "startDate": "2021-01",
+    "endDate": "2022-05",
+    "isCurrent": false,
+    "location": "Addis Ababa, Ethiopia",
+    "responsibilities": [
+      "Developed firmware for embedded IoT devices using C and Python, integrating MQTT communication protocols.",
+      "Designed PCB schematics for a low-power sensor node deployed in 3 agricultural monitoring pilot sites.",
+      "Built a data ingestion service bridging IoT sensor streams to a cloud dashboard using Python FastAPI and MQTT brokers.",
+      "Collaborated with hardware teams to define software/hardware interface contracts for 5 device product lines."
+    ],
+    "technologies": ["C", "Python", "FastAPI", "MQTT", "Raspberry Pi", "ESP32", "PostgreSQL"]
+  }
+]

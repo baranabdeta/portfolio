@@ -1,0 +1,54 @@
+[
+  {
+    "id": "frontend",
+    "categoryName": "Frontend",
+    "order": 1,
+    "skills": [
+      { "name": "React", "iconKey": "react", "level": "expert" },
+      { "name": "TypeScript", "iconKey": "typescript", "level": "expert" },
+      { "name": "Next.js", "iconKey": "nextjs", "level": "advanced" },
+      { "name": "Tailwind CSS", "iconKey": "tailwind", "level": "advanced" },
+      { "name": "HTML5 / CSS3", "iconKey": "html", "level": "expert" },
+      { "name": "JavaScript (ES2024+)", "iconKey": "javascript", "level": "expert" }
+    ]
+  },
+  {
+    "id": "backend",
+    "categoryName": "Backend",
+    "order": 2,
+    "skills": [
+      { "name": "Node.js", "iconKey": "nodejs", "level": "expert" },
+      { "name": "Go", "iconKey": "go", "level": "advanced" },
+      { "name": "Python", "iconKey": "python", "level": "advanced" },
+      { "name": "FastAPI", "iconKey": "fastapi", "level": "advanced" },
+      { "name": "GraphQL", "iconKey": "graphql", "level": "intermediate" },
+      { "name": "REST APIs", "iconKey": "api", "level": "expert" }
+    ]
+  },
+  {
+    "id": "databases-cloud",
+    "categoryName": "Databases & Cloud",
+    "order": 3,
+    "skills": [
+      { "name": "PostgreSQL", "iconKey": "postgresql", "level": "advanced" },
+      { "name": "Redis", "iconKey": "redis", "level": "advanced" },
+      { "name": "ClickHouse", "iconKey": "clickhouse", "level": "intermediate" },
+      { "name": "AWS", "iconKey": "aws", "level": "intermediate" },
+      { "name": "Docker", "iconKey": "docker", "level": "advanced" },
+      { "name": "Kubernetes", "iconKey": "kubernetes", "level": "intermediate" }
+    ]
+  },
+  {
+    "id": "tools-practices",
+    "categoryName": "Tools & Practices",
+    "order": 4,
+    "skills": [
+      { "name": "Git / GitHub", "iconKey": "git", "level": "expert" },
+      { "name": "GitHub Actions CI/CD", "iconKey": "githubactions", "level": "advanced" },
+      { "name": "Linux / Bash", "iconKey": "linux", "level": "advanced" },
+      { "name": "Agile / Scrum", "iconKey": "agile", "level": "advanced" },
+      { "name": "Jest / Testing", "iconKey": "jest", "level": "intermediate" },
+      { "name": "WebSockets", "iconKey": "websocket", "level": "intermediate" }
+    ]
+  }
+]

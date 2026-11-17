@@ -1,0 +1,50 @@
+[
+  {
+    "id": "cloudscale-analytics",
+    "title": "CloudScale Analytics",
+    "summary": "Distributed real-time telemetry dashboard",
+    "description": "Distributed real-time telemetry dashboard processing millions of streaming events with sub-second latency visualization.",
+    "mockType": "mock-analytics",
+    "demoUrl": null,
+    "repoUrl": "https://github.com/baranabdeta/cloudscale-analytics",
+    "tags": ["React", "TypeScript", "Node.js", "ClickHouse"],
+    "featured": true,
+    "sortOrder": 1
+  },
+  {
+    "id": "devflow-cicd",
+    "title": "DevFlow CI/CD Hub",
+    "summary": "Automated deployment pipeline orchestrator",
+    "description": "Automated deployment pipeline orchestrator featuring ephemeral staging environments, canary rollouts, and rollback triggers.",
+    "mockType": "mock-devflow",
+    "demoUrl": null,
+    "repoUrl": "https://github.com/baranabdeta/devflow-cicd",
+    "tags": ["Next.js", "Go", "PostgreSQL", "Docker"],
+    "featured": true,
+    "sortOrder": 2
+  },
+  {
+    "id": "nexus-ecommerce",
+    "title": "Nexus E-Commerce Core",
+    "summary": "High-concurrency digital store backend",
+    "description": "High-concurrency digital store backend with automated inventory reconciliation, idempotent checkout, and webhook integrations.",
+    "mockType": "mock-nexus",
+    "demoUrl": null,
+    "repoUrl": "https://github.com/baranabdeta/nexus-ecommerce",
+    "tags": ["React", "GraphQL", "Redis", "Stripe API"],
+    "featured": false,
+    "sortOrder": 3
+  },
+  {
+    "id": "sentinels-ai-studio",
+    "title": "Sentinels AI Studio",
+    "summary": "Collaborative AI workflow environment",
+    "description": "Collaborative AI workflow environment with multi-model prompt chaining, vector embeddings retrieval, and eval testing dashboards.",
+    "mockType": "mock-sentinels",
+    "demoUrl": null,
+    "repoUrl": "https://github.com/baranabdeta/sentinels-ai-studio",
+    "tags": ["Python", "FastAPI", "TypeScript", "Tailwind"],
+    "featured": false,
+    "sortOrder": 4
+  }
+]
